@@ -6,7 +6,6 @@
 - App Widget
 - Custom Components and Animations
 
-<img width="1440" alt="Screenshot 2024-12-05 at 4 56 44 PM" src="https://github.com/user-attachments/assets/bd8ece0a-d9c5-487e-b98c-8cbf84517628">
 <img width="1440" alt="Screenshot 2024-12-05 at 4 56 44 PM" src="https://github.com/user-attachments/assets/3397fa55-2dcd-4e9f-bd7d-f2210230538e">
 <img width="1440" alt="Screenshot 2024-12-05 at 4 56 52 PM" src="https://github.com/user-attachments/assets/28bb9c42-b851-4b35-8cef-b3fdeeb47b21">
 <img width="1440" alt="Screenshot 2024-12-05 at 4 57 00 PM" src="https://github.com/user-attachments/assets/bb829272-6cf6-4ff3-88a3-5f9b01c30272">
